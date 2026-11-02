@@ -16,5 +16,5 @@
     "resolveJsonModule": true,
     "types": ["vite/client", "node", "@testing-library/jest-dom"]
   },
-  "include": ["src", "engine", "api", "tests", "vite.config.mts"]
+  "include": ["src", "engine", "api", "tests", "server.ts", "vite.config.mts"]
 }
